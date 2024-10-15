@@ -1,0 +1,41 @@
+Bank Balance: 5000
+____________________________________
+
+
+
+Balance after withdrawal of 200.00: $ 4800.00
+
+____________________________________
+
+
+Balance after withdrawal of 800.00: $ 4000.00
+
+____________________________________
+
+
+Balance after withdrawal of 40.00: $ 3960.00
+
+____________________________________
+
+
+Balance after deposit of90.00 : $ 4050.00
+
+____________________________________
+
+
+Balance after deposit of100.00 : $ 4150.00
+
+____________________________________
+
+
+Balance after deposit of1000.00 : $ 5150.00
+
+____________________________________
+
+
+Balance after withdrawal of 20.00: $ 5130.00
+
+____________________________________
+
+The total withdrawal amount today is $1060.00 and the total deposit amount today is $1190.00
+The final bank balance today is $5130.00
