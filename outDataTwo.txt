@@ -16,5 +16,7 @@ D....100.00.............................4150.00
 D...1000.00.............................5150.00
 
 W.....20.00.............................5130.00
-The total withdrawal amount today is $1060.00 and the total deposit amount today is $1190.00
-The final bank balance today is $5130.00
+
+ENDING BALANCE: $5130.00
+TOTAL WITHDRAWALS: $1060.00
+TOTAL DEPOSITS: $1190.00
